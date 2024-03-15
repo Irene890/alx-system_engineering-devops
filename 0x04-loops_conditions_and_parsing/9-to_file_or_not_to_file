@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #Displays infor about the `school` file
 
 if [ -e "school" ]
